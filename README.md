@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kevinroosey
 - 👀 I’m interested in ... Software Engineering
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently ... a 2nd year CS student
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... kevinroosey@gmail.com
 
 <!---
