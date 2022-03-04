@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kevinroosey
-- 👀 I’m interested in ... Software Engineering
-- 🌱 I’m currently ... a 2nd year CS student
-- 💞️ I’m looking to collaborate on ... JavaScript/Python/Java projects
+- 👀 I’m interested in ... Python, JS, Java
+- 🌱 I’m currently ... Working on personal projects
 - 📫 How to reach me ... kevinroosey@gmail.com
 
 <!---
