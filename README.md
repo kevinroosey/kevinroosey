@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kevinroosey
-- 👀 I’m interested in ... Python, JS, Java
+- 👀 I’m interested in ... JS, Python, Java
 - 🌱 I’m currently ... Working on personal projects
 - 📫 How to reach me ... kevinroosey@gmail.com
 
