@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @kevinroosey
-- 👀 I’m interested in ... TypeScript
-- 🌱 I’m currently ... Working on personal projects
-- 📫 How to reach me ... kevinroosey@gmail.com
+- 🌱 I’m currently ... Working on TypeScript and Go web apps!
 
 <!---
 kevinroosey/kevinroosey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
