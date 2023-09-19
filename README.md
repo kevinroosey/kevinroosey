@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kevinroosey
-- 🌱 I’m currently ... Working on TypeScript and Go web apps!
+- 🏫 Third year CS student @ Depaul University
 
 <!---
 kevinroosey/kevinroosey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
