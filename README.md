@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kevinroosey
-- 🏫 Third year CS @ Depaul University
+- 🏫 Depaul University 2025
 
 <!---
 kevinroosey/kevinroosey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
